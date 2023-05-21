@@ -1,1 +1,1 @@
-# first_dev_project
+# My first website created using HTML and CSS. Local only.
